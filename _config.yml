@@ -17,15 +17,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "about me", icon: home}
-  - {title: "graduate research", icon: circle}
-  - {title: "research experiences", icon: circle}
-  - {title: "volunteering", icon: circle}
-  - {file: "chazzjordan.pdf", title: "cv", icon: circle}
-  - {file: "README.md"}
+  - {title: "graduate research"}
+  - {title: "research experiences"}
+  - {title: "volunteering"}
+  - {file: "chazzjordan.pdf", title: "cv"}
+  # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:cmj93075@uga.edu"}
-  - {title: Github, icon: github, url: "https://github.com/chazzjordan"}
+  - {title: Mail, url: "mailto:cmj93075@uga.edu"}
+  - {title: Github, url: "https://github.com/chazzjordan"}
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
