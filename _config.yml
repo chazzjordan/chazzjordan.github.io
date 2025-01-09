@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "about me", icon: home}
+  - {title: "about me",file: "/index.md", icon: home}
   - {title: "graduate research"}
   - {title: "research experiences"}
   - {title: "volunteering"}
-  - {file: "chazzjordan.pdf", title: "cv"}
+  - {file: "/chazzjordan.pdf", title: "cv"}
   # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
