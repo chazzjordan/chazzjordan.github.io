@@ -1,6 +1,7 @@
 title: "Chazz Jordan"
 author: "Chazz Jordan"
-description: "University of Georgia | Plant Biology Department"
+description: "University of Georgia
+Plant Biology Department"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "chazzjordan.pdf", title: "CV", icon: home}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
