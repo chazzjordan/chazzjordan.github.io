@@ -17,6 +17,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "about me", icon: circle}
+  - {title: "graduate research", icon: circle}
+  - {title: "research experiences", icon: circle}
+  - {title: "volunteering", icon: circle}
   - {file: "chazzjordan.pdf", title: "CV", icon: home}
   - {file: "README.md"}
 
