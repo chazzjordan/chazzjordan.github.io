@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, url: "mailto:cmj93075@uga.edu"}
-  - {title: Github, url: "https://github.com/chazzjordan"}
+  - {title: want to email me?, url: "mailto:cmj93075@uga.edu"}
+  - {title: my github site, url: "https://github.com/chazzjordan"}
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
