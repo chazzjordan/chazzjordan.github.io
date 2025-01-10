@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "graduate research"}
   - {title: "research experiences"}
   - {title: "volunteering"}
-  - {file: "/chazzjordan.pdf", title: "cv"}
+  - {title: "cv", file: "/chazzjordan.pdf"}
   # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
